@@ -1,0 +1,17 @@
+value1:
+Spawn (Use this to Spawn the 2 hands, and only use it
+ones, unless you hide both hands)
+
+RetreatR (Use this to hide jakes right hand)
+
+RetreatL (Use this to hide jakes left hand)
+
+RetreatBoth (Use this to hide both hands at the same time)
+
+attackR (Use this to activate the right hand mechanic
+,aka the hands that covers the notes)
+
+attackL (Use this to activate the left hand mechanic
+aka the hand that drain health)
+
+attackBoth (Use this to activate both hands mechanic at the same time)

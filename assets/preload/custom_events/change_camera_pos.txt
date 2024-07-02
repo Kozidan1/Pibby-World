@@ -1,0 +1,10 @@
+v1:
+x,dad or y,dad
+x,bf or y,bf
+x,gf or y,gf
+
+v2:
+camera value
+
+if you want to get back the original camera value
+then put 0
