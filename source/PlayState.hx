@@ -1134,9 +1134,7 @@ class PlayState extends MusicBeatState
 		if(ClientPrefs.downScroll) {
 			botplayTxt.y = timeBarBG.y - 78;
 		}
-	        var creditTxt = new FlxText(876, 648, 348)
-               creditTxt. text = "Port by the Kozidan";
-		       
+	              
 		strumLineNotes.cameras = [camHUD];
 		grpNoteSplashes.cameras = [camHUD];
 		notes.cameras = [camHUD];
