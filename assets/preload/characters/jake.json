@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				441,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Jake Left note"
+		},
+		{
+			"offsets": [
+				58,
+				233
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Jake Right note"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				140,
+				-70
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Jake Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				-205
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Jake Down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				350
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Jake Up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				240
+			],
+			"anim": "singUP-alt",
+			"fps": 20,
+			"name": "Jake Laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AT/jake",
+	"position": [
+		-210,
+		190
+	],
+	"healthicon": "jake",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		203,
+		70
+	],
+	"camera_position": [
+		-70,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
