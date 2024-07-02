@@ -1135,7 +1135,7 @@ class PlayState extends MusicBeatState
 			botplayTxt.y = timeBarBG.y - 78;
 		}
 	        var creditTxt = new FlxText(876, 648, 348)
-               creditTxt. text = "Port by the Kozidan"; creditTxt.setFormat(Paths.font("vcr.ttf"), 20, FlxColor. WHITE, RIGHT, FlxTextBorderStyle.OUTLINE.FlxColor.BLACK);
+               creditTxt. text = "Port by the Kozidan"; creditTxt.setFormat(Paths.font("vcr.ttf"), 16, FlxColor. WHITE, RIGHT, FlxTextBorderStyle.OUTLINE.FlxColor.BLACK);
 										           
 	       creditTxt.scrollFactor.set();
 	       add(creditTxt);
