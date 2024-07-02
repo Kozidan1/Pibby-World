@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Countdown old.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Counting0000" x="0" y="2184" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0001" x="3220" y="1092" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0002" x="3220" y="728" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0003" x="2576" y="1456" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0004" x="3220" y="2912" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0005" x="644" y="728" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0006" x="3220" y="0" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0007" x="0" y="2548" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0008" x="3220" y="2548" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0009" x="2576" y="1820" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0010" x="0" y="1820" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0011" x="1288" y="1456" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0012" x="1288" y="364" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0013" x="644" y="0" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0014" x="1288" y="728" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0015" x="3220" y="2184" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0016" x="3220" y="364" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0017" x="644" y="1820" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0018" x="1932" y="0" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0019" x="0" y="2912" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0020" x="1932" y="2184" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0021" x="2576" y="2184" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0022" x="3220" y="1456" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0023" x="1932" y="364" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0024" x="644" y="1092" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0025" x="1288" y="2184" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0026" x="2576" y="0" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0027" x="1932" y="728" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0028" x="1932" y="2912" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0029" x="0" y="0" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0030" x="1932" y="1092" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0031" x="1288" y="1820" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0032" x="1288" y="0" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0033" x="1932" y="1456" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0034" x="644" y="2548" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0035" x="1288" y="2548" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0036" x="0" y="1092" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0037" x="1288" y="2912" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0038" x="3220" y="1820" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0039" x="2576" y="364" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0040" x="1932" y="1820" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0041" x="1288" y="1092" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0042" x="0" y="364" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0043" x="644" y="2184" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0044" x="644" y="1456" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0045" x="2576" y="728" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0046" x="2576" y="2548" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0047" x="644" y="364" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0048" x="0" y="1456" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0049" x="1932" y="2548" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0050" x="0" y="728" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0051" x="2576" y="2912" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0052" x="2576" y="1092" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+	<SubTexture name="Counting0053" x="644" y="2912" width="644" height="364" frameX="2" frameY="2" frameWidth="640" frameHeight="360"/>
+</TextureAtlas>

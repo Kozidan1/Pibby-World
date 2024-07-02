@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bullet.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="bullet_down0000" x="752" y="197" width="97" height="197" frameX="2" frameY="2" frameWidth="131" frameHeight="249"/>
+	<SubTexture name="bullet_down confirm0000" x="129" y="0" width="129" height="247" frameX="1" frameY="1" frameWidth="131" frameHeight="249"/>
+	<SubTexture name="bullet_down confirm0001" x="387" y="0" width="128" height="246" frameX="0" frameY="1" frameWidth="131" frameHeight="249"/>
+	<SubTexture name="bullet_down confirm0002" x="127" y="247" width="127" height="245" frameX="0" frameY="0" frameWidth="131" frameHeight="249"/>
+	<SubTexture name="bullet_down confirm0003" x="752" y="197" width="97" height="197" frameX="-15" frameY="-24" frameWidth="131" frameHeight="249"/>
+	<SubTexture name="bullet_left0000" x="236" y="493" width="197" height="97" frameX="2" frameY="2" frameWidth="239" frameHeight="127"/>
+	<SubTexture name="bullet_left confirm0000" x="254" y="247" width="238" height="125" frameX="1" frameY="1" frameWidth="239" frameHeight="127"/>
+	<SubTexture name="bullet_left confirm0001" x="515" y="248" width="236" height="123" frameX="0" frameY="0" frameWidth="239" frameHeight="127"/>
+	<SubTexture name="bullet_left confirm0002" x="0" y="493" width="236" height="122" frameX="0" frameY="-1" frameWidth="239" frameHeight="127"/>
+	<SubTexture name="bullet_left confirm0003" x="236" y="493" width="197" height="97" frameX="-19" frameY="-13" frameWidth="239" frameHeight="127"/>
+	<SubTexture name="bullet_right0000" x="254" y="372" width="197" height="97" frameX="2" frameY="2" frameWidth="239" frameHeight="128"/>
+	<SubTexture name="bullet_right confirm0000" x="515" y="0" width="237" height="124" frameX="1" frameY="0" frameWidth="239" frameHeight="128"/>
+	<SubTexture name="bullet_right confirm0001" x="515" y="124" width="237" height="124" frameX="1" frameY="0" frameWidth="239" frameHeight="128"/>
+	<SubTexture name="bullet_right confirm0002" x="515" y="371" width="236" height="122" frameX="1" frameY="-1" frameWidth="239" frameHeight="128"/>
+	<SubTexture name="bullet_right confirm0003" x="254" y="372" width="197" height="97" frameX="-14" frameY="-11" frameWidth="239" frameHeight="128"/>
+	<SubTexture name="bullet_up0000" x="752" y="0" width="97" height="197" frameX="2" frameY="2" frameWidth="131" frameHeight="249"/>
+	<SubTexture name="bullet_up confirm0000" x="0" y="0" width="129" height="247" frameX="1" frameY="0" frameWidth="131" frameHeight="249"/>
+	<SubTexture name="bullet_up confirm0001" x="258" y="0" width="129" height="246" frameX="1" frameY="0" frameWidth="131" frameHeight="249"/>
+	<SubTexture name="bullet_up confirm0002" x="0" y="247" width="127" height="246" frameX="0" frameY="0" frameWidth="131" frameHeight="249"/>
+	<SubTexture name="bullet_up confirm0003" x="752" y="0" width="97" height="197" frameX="-15" frameY="-24" frameWidth="131" frameHeight="249"/>
+</TextureAtlas>
